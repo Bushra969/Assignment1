@@ -1,0 +1,86 @@
+Body{
+    margin: 0%;
+}
+h1{
+    font-size: 30px;
+}
+p{
+    color: dimgray;
+}
+.first{
+    color:blue;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left:2%;
+
+}
+.half-width img{
+    width: 100%;
+}
+
+
+section{
+    height: 300px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue,skyblue);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    scroll-padding-bottom: 5%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half-width img{
+    width: 50%;
+}
+#no{
+    color: white;
+}
+h2{
+    text-align: center;
+}
+.second{
+    color: darkblue;
+}
+
+
+.tour-one{
+    border: 1px solid whitesmoke;
+    border-radius: 20px;
+    margin: 20px;
+    width: 25%;
+    float:  left;
+    background-color: white;
+}
+
+.backround-area{
+    background-image: url("images/last.png");
+    
+}
+.finish{
+    text-align:left;
+    font-size: 18px;
+    color: rgb(42, 248, 248);
+}
+.last-part{
+    border: 20px;
+    background-image: url(images/last.png);
+    margin: 200px 200px;
+    height: 50px;
+    width: 50%;
+
+}
+
